@@ -17,17 +17,19 @@ A React.js web application that helps users detect their hair problems and get s
 
 ## Tech Stack
 
-- **React.js**
+- **React.js + vite**
 - **Framer Motion** (for animations)
 - **Tailwind CSS** (for styling)
 - **JSON** (for static data like problems, remedies, and product prices)
+- **Icons**(for icons use react-icons)
+- **Navigation**(react-router)
 
 ---
 
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/hair-care-app.git
+git clone https://github.com/Nimrazulfiqar-002/hair-care-app.git
 cd hair-care-app
 npm install
-npm start
+npm run dev
