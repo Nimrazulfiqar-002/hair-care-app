@@ -1,0 +1,79 @@
+{
+    "hair_loss": [
+      {
+        "name": "Anti-Hair Fall Shampoo",
+        "brand": "Dove",
+        "image":"/src/assets/images/Anti-Hair Fall Shampoo.png",
+        "prices": {
+          "Daraz": "Rs. 650",
+          "Naheed": "Rs. 620",
+          "Chase": "Rs. 640"
+        }
+      },
+      {
+        "name": "Biotin Hair Gummies",
+        "brand": "NutraGlow",
+        "image":"/src/assets/images/NutraGlow.PNG",
+        "prices": {
+          "Daraz": "Rs. 999",
+          "Naheed": "Rs. 980"
+        }
+      }
+    ],
+    "dandruff": [
+      {
+        "name": "Head & Shoulders Dandruff Shampoo",
+        "brand": "H&S",
+        "image":"/src/assets/images/Head & Shoulders Dandruff Shampoo.PNG",
+        "prices": {
+          "Daraz": "Rs. 450",
+          "Imtiaz": "Rs. 430"
+        }
+      }
+    ],
+    "dry_scalp": [
+      {
+        "name": "Moisture Repair Shampoo",
+        "brand": "OGX",
+        "image":"/src/assets/images/Moisture Repair Shampoo OGX.PNG",
+        "prices": {
+          "Daraz": "Rs. 1,200",
+          "Chase": "Rs. 1,150"
+        }
+      }
+    ],
+    "split_ends": [
+      {
+        "name": "Split End Rescue Cream",
+        "brand": "Pantene",
+        "image":"/src/assets/images/Split End Rescue Cream pantene.PNG",
+        "prices": {
+          "Daraz": "Rs. 550",
+          "Naheed": "Rs. 530"
+        }
+      }
+    ],
+    "bald_patches": [
+      {
+        "name": "Hair Regrowth Serum",
+        "brand": "Minoxidil",
+        "image":"/src/assets/images/Hair Regrowth Serum Minoxidil.PNG",
+        "prices": {
+          "Daraz": "Rs. 1,600",
+          "PharmaPlus": "Rs. 1,550"
+        }
+      }
+    ],
+    "alopecia": [
+      {
+        "name": "Alopecia Treatment Spray",
+        "brand": "Anagain",
+        "image":"/src/assets/images/Alopecia Treatment spray.PNG",
+        "prices": {
+          "Daraz": "Rs. 2,100",
+          "HealthOnline": "Rs. 2,000"
+        }
+      }
+    ]
+  }
+  

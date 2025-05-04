@@ -1,0 +1,9 @@
+[
+    { "id": "hair_loss", "name": "Hair Loss" },
+    { "id": "dandruff", "name": "Dandruff" },
+    { "id": "dry_scalp", "name": "Dry Scalp" },
+    { "id": "split_ends", "name": "Split Ends" },
+    { "id": "bald_patches", "name": "Bald Patches" },
+    { "id": "alopecia", "name": "Alopecia" }
+  ]
+  

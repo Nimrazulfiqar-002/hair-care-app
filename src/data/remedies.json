@@ -1,0 +1,33 @@
+{
+    "hair_loss": [
+      "Massage your scalp with coconut oil twice a week",
+      "Apply onion juice for 30 minutes before shower",
+      "Use aloe vera gel as a hair mask"
+    ],
+    "dandruff": [
+      "Use a neem leaf rinse",
+      "Apply yogurt and lemon mixture to the scalp",
+      "Use apple cider vinegar diluted with water"
+    ],
+    "dry_scalp": [
+      "Massage with warm olive oil",
+      "Use a honey and banana hair mask",
+      "Avoid washing hair with hot water"
+    ],
+    "split_ends": [
+      "Apply egg yolk and olive oil mask",
+      "Trim hair regularly",
+      "Use leave-in conditioners"
+    ],
+    "bald_patches": [
+      "Use castor oil and peppermint oil mix",
+      "Apply fenugreek paste",
+      "Use green tea rinse"
+    ],
+    "alopecia": [
+      "Use ginger juice on affected areas",
+      "Apply essential oils like rosemary or peppermint",
+      "Take multivitamin supplements after consulting a doctor"
+    ]
+  }
+  
